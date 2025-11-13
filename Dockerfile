@@ -30,8 +30,3 @@ EXPOSE 80
 
 # Start Nginx
 CMD ["nginx", "-g", "daemon off;"]
-
-Sample Docker file
-Written by gopi
-added a file
-
